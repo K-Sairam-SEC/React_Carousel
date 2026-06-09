@@ -1,7 +1,10 @@
 Ex05 Image Carousel
+
 Date: 7/6/2026
+
 Register Number: 212225240132
-AIM
+
+AIM:
 To create a Image Carousel using React
 
 ALGORITHM
