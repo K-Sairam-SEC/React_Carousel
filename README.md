@@ -4,14 +4,20 @@ Date: 7/6/2026
 
 Register Number: 212225240132
 
+
 AIM:
 To create a Image Carousel using React
+
+
 
 ALGORITHM
 STEP 1 Initial Setup:
 Input: A list of images to display in the carousel.
 
+
+
 Output: A component displaying the images with navigation controls (e.g., next/previous buttons).
+
 
 Step 2 State Management:
 Use a state variable (currentIndex) to track the index of the current image displayed.
